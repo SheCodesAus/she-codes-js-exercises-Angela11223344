@@ -49,6 +49,10 @@ h2 {
     position: relative;
 }
 
+#meme-image-wrapper-bottom {
+    position: absolute;
+}
+
 #bottom-text-wrapper {
     margin-top: 10px;
 }
@@ -58,7 +62,7 @@ h2 {
 }
 
 #bottom-text {
-    bottom: 0;
+    bottom: 60px;
 }
 
 #meme-image {
